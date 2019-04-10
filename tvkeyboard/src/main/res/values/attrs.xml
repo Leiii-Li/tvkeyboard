@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TvKeyBoard">
+        <attr name="editTextBackground" format="reference" />
+        <attr name="editTextContentColor" format="color" />
+        <attr name="editTextContentSize" format="dimension" />
+        <attr name="editTextCursorDrawable" format="reference" />
+        <attr name="editTextHeight" format="dimension" />
+        <attr name="contentMargin" format="dimension" />
+        <attr name="numColumns" format="integer" />
+    </declare-styleable>
+</resources>

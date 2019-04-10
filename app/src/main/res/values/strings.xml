@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">keyboarddemo</string>
+    <string-array name="search_key_board">
+        <item>1</item>
+        <item>2abc</item>
+        <item>3def</item>
+        <item>4ghi</item>
+        <item>5jkl</item>
+        <item>6mno</item>
+        <item>7pqrs</item>
+        <item>8tuv</item>
+        <item>9wxyz</item>
+        <item></item>
+        <item>0</item>
+        <item></item>
+    </string-array>
+</resources>
